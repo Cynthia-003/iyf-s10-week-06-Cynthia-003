@@ -12,27 +12,20 @@ I created a weather dashboard so that it can be easier to predict the weather.
 - HTML5
 - CSS3
 - JavaScript
-- (list all technologies)
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## How to Run
-1. Clone this repository
-2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+The difference between  Synchronous and Asynchronous.
+How to converting to Async/Await.
+Error Handling with Try/Catch.
+How to build a weather application using the OpenWeatherMap API.
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+Error handling.
+Creating a responsive weather app.
 
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://github.com/Cynthia-003/iyf-s10-week-06-Cynthia-003)
+add commit .
