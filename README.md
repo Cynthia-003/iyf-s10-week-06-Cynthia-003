@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Cynthia Njeri
-- **GitHub:** [@Cynthia-003](https://github.com/Cynthia-003)
+- **GitHub:** [Cynthia-003](https://github.com/Cynthia-003)
 - **Date:** March 24, 2026
 
 ## Project Description
